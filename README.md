@@ -1,2 +1,2 @@
-# Evaluating Discrete Latent Temporal Structure (Temporal Clusterings)
+# Evaluating Latent Temporal Labelings (Temporal Clusterings)
 
