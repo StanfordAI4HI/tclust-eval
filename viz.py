@@ -18,6 +18,8 @@ colorings = np.array(colorings)
 
 colorings_1 = sns.color_palette("PiYG", 12)
 colorings_2 = sns.color_palette("PuOr", 10)
+colorings_3 = sns.color_palette("coolwarm", 10)
+colorings = np.array(sns.color_palette('pastel', 14))
 
 from matplotlib.gridspec import GridSpec
 
